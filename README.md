@@ -39,8 +39,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="react" width="40" height="40"/> 
   </a>  
   </p>
-
-<p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=N-I-V-Z" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-I-V-Z&layout=compact&card_width=320" />
-</p>
