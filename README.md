@@ -1,41 +1,58 @@
-<h1 align="center">Hi 👋, I'm Vo Thanh Nhan </h1>
-<h3 align="center">An enthusiastic programmer hailing from Ho Chi Minh City, currently pursuing a specialized degree in .NET at FPT University.</h3>
+# Hello, I'm Vo Thanh Nhan
 
-- 👀 <b> I’m interested in exploring new things over a long period of time. </b>
-  
-- 📫 How to reach me **vothanhnhan106@gmail.com**
+I am a Full Stack Developer passionate about building high-performance web applications with excellent user experience. Currently a student at FPT University majoring in Software Engineering, I am eager to apply my knowledge and skills to real-world projects and grow as a developer.
 
-- ⚡ Fun fact **I am a friendly person who may be a bit shy at first, but I quickly adapt and get along with others. :v**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://react.dev/learn" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="react" width="40" height="40"/> 
-  </a>  
-  </p>
+## About Me
+
+Currently studying at FPT University majoring in Software Engineering
+Based in Ho Chi Minh City - Vietnam
+Currently learning: Web Development, Cloud Architecture, System Design
+Passionate about: Building robust web applications, clean code practices, continuous learning, and collaborative development
+
+---
+
+## Technical Skills
+
+Frontend Development:
+React, Next.js, TypeScript, Tailwind CSS, JavaScript, HTML5, CSS3
+
+Backend Development:
+Node.js, C#, Express.js, REST APIs, Object-Oriented Programming
+
+Database and Tools:
+SQL Server, MongoDB, Docker, Git, GitHub
+
+
+
+## Career Goals and Vision
+
+As a recent graduate from FPT University, I am committed to becoming a skilled Full Stack Developer. My roadmap includes:
+
+Master Full Stack Development: Deepen expertise in both frontend and backend technologies to build complete, scalable web applications.
+
+First Professional Role: Secure my first position as a Junior Developer to apply academic knowledge in real-world projects and learn industry best practices.
+
+Clean Code and Best Practices: Focus on writing maintainable, efficient, and well-documented code following SOLID principles and design patterns.
+
+Continuous Learning: Stay updated with emerging technologies and frameworks, particularly in areas like cloud computing, microservices, and DevOps.
+
+Contribute to Open Source: Participate in open source projects to gain practical experience, collaborate with the community, and build a strong professional portfolio.
+
+Career Progression: Aim to grow from Junior Developer to Mid-level Developer within 2-3 years, then progress toward Senior Developer or Tech Lead positions.
+
+Mentorship and Knowledge Sharing: Eventually mentor junior developers and contribute to the tech community through blogs, talks, and collaborative projects.
+
+---
+
+## Get in Touch
+
+Email: vothanhnhan106@gmail.com
+GitHub: https://github.com/N-I-V-Z
+
+---
+
+Thank you for visiting my profile!
+
+Last Updated: November 2025
