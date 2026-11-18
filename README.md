@@ -1,4 +1,4 @@
-# Hi there, I'm Vo Thanh Nhan 👋
+# Hi there, I'm Vo Thanh Nhan
 
 **Full-stack Developer (.NET / NestJS / Next.js)** based in Ho Chi Minh City, Vietnam.  
 I specialize in building scalable web and cross-platform mobile applications, real-time systems, and robust backend architectures.
